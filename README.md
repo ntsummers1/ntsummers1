@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicholas Summers</h1>
 <h3 align="center">An ever-learning, passionate, and burrito-loving web developer</h3>
 
-- 👨‍💻 All of my projects are available at [ntsummers1.github.io/portfolio-2022](ntsummers1.github.io/portfolio-2022)
+👨‍💻 All of my projects are available at [ntsummers1.github.io/portfolio-2022/](https://ntsummers1.github.io/portfolio-2022/)
 
-- 📫 How to reach me **ntsummers1@gmail.com**
+📫 How to reach me **ntsummers1@gmail.com**
 
-- 📄 Know about my experiences [ntsummers1.github.io/portfolio-2022](ntsummers1.github.io/portfolio-2022/resume)
+📄 Know about my experiences [ntsummers1.github.io/portfolio-2022/](https://ntsummers1.github.io/portfolio-2022//resume)
 
 ### My Socials
 <ul>
