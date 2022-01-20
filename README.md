@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Summers</h1>
 <h3 align="center">I'm an ever-learning, passionate, and burrito-loving developer</h3>
 
-👨‍💻 All of my projects are available at [ntsummers1.github.io/portfolio-2022/](https://ntsummers1.github.io/portfolio-2022/)
-
-📫 How to reach me **ntsummers1@gmail.com**
-
-📄 Know about my experiences [ntsummers1.github.io/portfolio-2022/resume](https://ntsummers1.github.io/portfolio-2022/resume)
+👨‍💻 Explore my portfolio at [ntsummers1.github.io/portfolio-2022/](https://ntsummers1.github.io/portfolio-2022/)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
