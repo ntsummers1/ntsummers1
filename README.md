@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm currently studying system architecture, data structures, and algorithms. Check out my [leetcode!](https://leetcode.com/ntsummers1/)\
 📫 &nbsp;How to reach me: **ntsummers1@gmail.com**.\
 📄 &nbsp;Know about my experiences: [ntsummers1.github.io/portfolio-2022/resume](https://ntsummers1.github.io/portfolio-2022/resume)\
-✍️ &nbsp;My current goals are to become better programmer. Know algorithms like Kadens inside and out and employe this knowledge to make clean, fast, and most importantly, human-benefiting code. I want to make the world a better place, one line at a time.
+✍️ &nbsp;My current goals are to become a better programmer. Know algorithms like Kadens inside and out and employe this knowledge to make clean, fast, and most importantly, human-benefiting code. I want to make the world a better place, one line at a time.
 
 ## 🛠 &nbsp;Tech Stack
 
