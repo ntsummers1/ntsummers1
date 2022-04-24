@@ -6,7 +6,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies particularly in the JS space. Vite and NextJS shoutout!\
-🎓 &nbsp;I've graduated in 2017 from Michigan State University with Dual Major: Computer Science and Media and Information.\
+🎓 &nbsp;I've graduated in 2017 from Michigan State University with a Dual Major in Computer Science and Media and Information.\
 🌱 &nbsp;I'm currently studying system architecture, data structures, and algorithms. Check out my [leetcode!](https://leetcode.com/ntsummers1/)\
 📫 &nbsp;How to reach me: **ntsummers1@gmail.com**.
 <!-- 📄 &nbsp;Know about my experiences: [ntsummers1.github.io/portfolio-2022/resume](https://ntsummers1.github.io/portfolio-2022/resume)\ -->
